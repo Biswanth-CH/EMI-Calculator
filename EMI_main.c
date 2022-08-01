@@ -1,9 +1,6 @@
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>
-#include<conio.h>
-#include<dos.h>
-#include<windows.h>
 
 float p = 0.0, r = 0.0, E = 0.0, y = 0.0, z = 0.0, di = 0.0;
 int n, choice;
@@ -83,7 +80,7 @@ int main()
         system("cls");
 
         menu(num);
-        getch();
+        
     }
 }
 
