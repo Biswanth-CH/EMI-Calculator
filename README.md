@@ -14,6 +14,7 @@ EMI of the user can be calculated with the following details:
 Algoithm:  
 
 • Step 1: Display EMI CALCULATOR, Declare P, r, n,E.
+
 // P= Loan Amount; r= Interest rate, n= time,E= EMI. 
 
 • Step 2: Read P, r, n.
