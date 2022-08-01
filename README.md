@@ -4,7 +4,7 @@ This project will help people who wants to Calculate EMI (Equated Monthly Instal
 
 EMI of the user can be calculated with the following details:
 
-• Loan Amount 
+• Loan Amount
 • Interest Rate
 • Loan tenure 
 
