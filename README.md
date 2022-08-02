@@ -25,6 +25,9 @@ Algoithm:
 
 • Step 5: STOP.
 
+Here p is loan amunt, r is intrest rate, n is time and E is EMI.
+
+
 SAMPLE INPUT AND OUTPUT:
 
 ![1](https://user-images.githubusercontent.com/110332879/182320129-5f9aae08-b2d0-4a51-a76f-08629353c132.JPG)
